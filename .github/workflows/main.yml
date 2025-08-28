@@ -5,7 +5,6 @@ git add .
 git commit -m "Initial commit - Muse Paint app with CI"
 git push -u origin main
 Muse Paint â€” Full Project Download
-=================================
 
 What's included:
 - package.json (Vite + React)
